@@ -1,0 +1,17 @@
+{
+  "name": "Lwin Oo Naing - Portfolio",
+  "lang": "en-US",
+  "short_name": "Lwin Oo Naing",
+  "theme_color": "#0e1212",
+  "background_color": "#0e1212",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

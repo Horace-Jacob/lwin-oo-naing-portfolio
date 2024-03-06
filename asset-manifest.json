@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lwin-oo-naing-portfolio/static/css/main.8b057d40.css",
+    "main.js": "/lwin-oo-naing-portfolio/static/js/main.b873b4db.js",
+    "static/media/phoenix_bird.glb": "/lwin-oo-naing-portfolio/static/media/phoenix_bird.2d9d116d6b6ae8ec2e5f.glb",
+    "static/media/cloud1.png": "/lwin-oo-naing-portfolio/static/media/cloud1.8753440457afd3d57b85.png",
+    "static/media/cloud2.png": "/lwin-oo-naing-portfolio/static/media/cloud2.fc3386210d5651a7371e.png",
+    "static/media/clouds-2.png": "/lwin-oo-naing-portfolio/static/media/clouds-2.3426c757bf143d2ba8e3.png",
+    "static/media/clouds-1.png": "/lwin-oo-naing-portfolio/static/media/clouds-1.f304ef01618d00b36a04.png",
+    "static/media/clouds-3.png": "/lwin-oo-naing-portfolio/static/media/clouds-3.4c71b8ad453ca0331a61.png",
+    "static/media/grass1.png": "/lwin-oo-naing-portfolio/static/media/grass1.ab20f1ca836fd6001a34.png",
+    "static/media/grass2.png": "/lwin-oo-naing-portfolio/static/media/grass2.1db98c5d0d4e04018cc1.png",
+    "static/media/react-ghost.svg": "/lwin-oo-naing-portfolio/static/media/react-ghost.cbf1b6a9072249b817a0aade7d4e9d85.svg",
+    "static/media/potion.svg": "/lwin-oo-naing-portfolio/static/media/potion.aaff4bf1a758b06793110e93cb5890ba.svg",
+    "static/media/astronaut.svg": "/lwin-oo-naing-portfolio/static/media/astronaut.2700ac2fb2f9dddb87f3b006051627db.svg",
+    "index.html": "/lwin-oo-naing-portfolio/index.html",
+    "static/media/coffeeMug.svg": "/lwin-oo-naing-portfolio/static/media/coffeeMug.fae9dc43dd9f59399d29c8f95ab60fa8.svg",
+    "main.8b057d40.css.map": "/lwin-oo-naing-portfolio/static/css/main.8b057d40.css.map",
+    "main.b873b4db.js.map": "/lwin-oo-naing-portfolio/static/js/main.b873b4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b057d40.css",
+    "static/js/main.b873b4db.js"
+  ]
+}
