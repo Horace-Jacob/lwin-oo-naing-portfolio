@@ -39,7 +39,7 @@ export const Navbar: React.FC<INavbar> = () => {
           <ul>
             <li>
               <a
-                href="/"
+                href="/lwin-oo-naing-portfolio"
                 className="router-link-exact-active router-link-active"
                 title="home"
               >
