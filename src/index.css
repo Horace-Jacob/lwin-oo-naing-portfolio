@@ -13,6 +13,7 @@
   --bgLight: radial-gradient(var(--bg), transparent, var(--orange) 130%);
   --gray: #808080;
   --comment: #555;
+  --secondary-orange: #ea580c;
 }
 
 * {

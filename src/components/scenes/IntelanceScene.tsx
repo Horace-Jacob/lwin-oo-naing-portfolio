@@ -38,12 +38,39 @@ const Yammobots = () => {
 };
 
 const YammobotsWork = () => {
+  const openLink = (url: string) => {
+    window.open(url, "_blank");
+  };
   return (
     <TextBlock>
       <p>
         Over the year at Yammobots I was involved in
         <span className="-big -purple">
-          real estate system, telemedicine system and cinema booking system
+          @
+          <span
+            onClick={() => openLink("https://myanland.com/")}
+            className="work-link"
+          >
+            real estate system
+          </span>
+          , @
+          <span
+            onClick={() =>
+              openLink(
+                "https://play.google.com/store/apps/details?id=com.yammobots.caremedoctor&hl=en_US"
+              )
+            }
+            className="work-link"
+          >
+            telemedicine system{" "}
+          </span>
+          and @
+          <span
+            onClick={() => openLink("https://www.facebook.com/mingalarcinemas")}
+            className="work-link"
+          >
+            cinema booking system
+          </span>
         </span>
         for local businesses in Myanmar
       </p>

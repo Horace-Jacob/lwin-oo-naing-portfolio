@@ -12,6 +12,7 @@ import { ThankScene } from "../components/scenes/ThankScene";
 import { addBodyClass, removeBodyClass } from "../utils/utils";
 import { WrapperScene } from "../components/scenes/WrapperScene";
 import { SpineLine } from "../components/shared/SpineLine";
+import { ProjectScene } from "../components/scenes/ProjectScene";
 
 interface IHomePage {}
 
@@ -585,6 +586,7 @@ export const HomePage: React.FC<IHomePage> = () => {
         <EducationScene />
         <GapBlock id="ghibliGap" />
         <GhibliScene />
+        <ProjectScene />
         <WrapperScene />
         <ThankScene />
       </div>

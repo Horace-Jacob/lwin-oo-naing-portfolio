@@ -1139,3 +1139,19 @@ body.blue-background {
     margin: 10rem auto 3rem;
   }
 }
+
+.work-link {
+  cursor: pointer;
+  &:hover {
+    color: var(--std-color);
+    transition: all 300ms ease-out;
+  }
+}
+
+.project-link {
+  cursor: pointer;
+  &:hover {
+    color: var(--secondary-orange);
+    transition: all 300ms ease-out;
+  }
+}
