@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lwin-oo-naing-portfolio/static/css/main.6ced84b9.css",
-    "main.js": "/lwin-oo-naing-portfolio/static/js/main.6278916e.js",
+    "main.css": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css",
+    "main.js": "/lwin-oo-naing-portfolio/static/js/main.eccd3f37.js",
     "static/media/phoenix_bird.glb": "/lwin-oo-naing-portfolio/static/media/phoenix_bird.2d9d116d6b6ae8ec2e5f.glb",
     "static/media/cloud1.png": "/lwin-oo-naing-portfolio/static/media/cloud1.8753440457afd3d57b85.png",
     "static/media/cloud2.png": "/lwin-oo-naing-portfolio/static/media/cloud2.fc3386210d5651a7371e.png",
@@ -15,11 +15,11 @@
     "static/media/astronaut.svg": "/lwin-oo-naing-portfolio/static/media/astronaut.2700ac2fb2f9dddb87f3b006051627db.svg",
     "index.html": "/lwin-oo-naing-portfolio/index.html",
     "static/media/coffeeMug.svg": "/lwin-oo-naing-portfolio/static/media/coffeeMug.fae9dc43dd9f59399d29c8f95ab60fa8.svg",
-    "main.6ced84b9.css.map": "/lwin-oo-naing-portfolio/static/css/main.6ced84b9.css.map",
-    "main.6278916e.js.map": "/lwin-oo-naing-portfolio/static/js/main.6278916e.js.map"
+    "main.fdc6e078.css.map": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css.map",
+    "main.eccd3f37.js.map": "/lwin-oo-naing-portfolio/static/js/main.eccd3f37.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ced84b9.css",
-    "static/js/main.6278916e.js"
+    "static/css/main.fdc6e078.css",
+    "static/js/main.eccd3f37.js"
   ]
 }
