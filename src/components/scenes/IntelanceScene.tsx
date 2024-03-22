@@ -85,7 +85,7 @@ export const IntelanceScene: React.FC<IIntelanceScene> = () => {
     <>
       <div className="bizScene" id="intelance">
         <TitleSection>
-          <TitleFunction params="Sep 2023, ~" subtitle={subtitle}>
+          <TitleFunction params="2023, Feb 2024" subtitle={subtitle}>
             Intelance
           </TitleFunction>
         </TitleSection>
