@@ -13,7 +13,7 @@
 1. Clone the project repository
 
 ```bash
-git clone https://github.com/Lwin-Oo-Naing/portfolio.git
+git clone https://github.com/Horace-Jacob/lwin-oo-naing-portfolio.git
 ```
 
 2. Install dependencies
