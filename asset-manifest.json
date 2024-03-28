@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css",
-    "main.js": "/lwin-oo-naing-portfolio/static/js/main.14f251ba.js",
+    "main.js": "/lwin-oo-naing-portfolio/static/js/main.57dc7c4c.js",
     "static/media/phoenix_bird.glb": "/lwin-oo-naing-portfolio/static/media/phoenix_bird.2d9d116d6b6ae8ec2e5f.glb",
     "static/media/cloud1.png": "/lwin-oo-naing-portfolio/static/media/cloud1.8753440457afd3d57b85.png",
     "static/media/cloud2.png": "/lwin-oo-naing-portfolio/static/media/cloud2.fc3386210d5651a7371e.png",
@@ -16,10 +16,10 @@
     "index.html": "/lwin-oo-naing-portfolio/index.html",
     "static/media/coffeeMug.svg": "/lwin-oo-naing-portfolio/static/media/coffeeMug.fae9dc43dd9f59399d29c8f95ab60fa8.svg",
     "main.fdc6e078.css.map": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css.map",
-    "main.14f251ba.js.map": "/lwin-oo-naing-portfolio/static/js/main.14f251ba.js.map"
+    "main.57dc7c4c.js.map": "/lwin-oo-naing-portfolio/static/js/main.57dc7c4c.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc6e078.css",
-    "static/js/main.14f251ba.js"
+    "static/js/main.57dc7c4c.js"
   ]
 }
