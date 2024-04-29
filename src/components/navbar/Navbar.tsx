@@ -49,6 +49,16 @@ export const Navbar: React.FC<INavbar> = () => {
 
             <li>
               <a
+                href="Certificates.zip"
+                title="certificates"
+                download={"Certificates.zip"}
+              >
+                .certificates()
+              </a>
+            </li>
+
+            <li>
+              <a
                 href="Lwin Oo Naing Resume.pdf"
                 title="cv"
                 download={"Lwin Oo Naing Resume.pdf"}
