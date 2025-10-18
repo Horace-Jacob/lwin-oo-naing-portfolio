@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css",
-    "main.js": "/lwin-oo-naing-portfolio/static/js/main.1ff3bca2.js",
+    "main.js": "/lwin-oo-naing-portfolio/static/js/main.ec799598.js",
     "static/media/phoenix_bird.glb": "/lwin-oo-naing-portfolio/static/media/phoenix_bird.2d9d116d6b6ae8ec2e5f.glb",
     "static/media/cloud1.png": "/lwin-oo-naing-portfolio/static/media/cloud1.8753440457afd3d57b85.png",
     "static/media/cloud2.png": "/lwin-oo-naing-portfolio/static/media/cloud2.fc3386210d5651a7371e.png",
@@ -10,16 +10,16 @@
     "static/media/clouds-3.png": "/lwin-oo-naing-portfolio/static/media/clouds-3.4c71b8ad453ca0331a61.png",
     "static/media/grass1.png": "/lwin-oo-naing-portfolio/static/media/grass1.ab20f1ca836fd6001a34.png",
     "static/media/grass2.png": "/lwin-oo-naing-portfolio/static/media/grass2.1db98c5d0d4e04018cc1.png",
-    "static/media/react-ghost.svg": "/lwin-oo-naing-portfolio/static/media/react-ghost.cbf1b6a9072249b817a0aade7d4e9d85.svg",
-    "static/media/potion.svg": "/lwin-oo-naing-portfolio/static/media/potion.aaff4bf1a758b06793110e93cb5890ba.svg",
-    "static/media/astronaut.svg": "/lwin-oo-naing-portfolio/static/media/astronaut.2700ac2fb2f9dddb87f3b006051627db.svg",
+    "static/media/react-ghost.svg": "/lwin-oo-naing-portfolio/static/media/react-ghost.ada8e36a2246e6fdbe4dd2611a3c3797.svg",
+    "static/media/potion.svg": "/lwin-oo-naing-portfolio/static/media/potion.ff37c2f074681a963bb720bae0b76619.svg",
+    "static/media/astronaut.svg": "/lwin-oo-naing-portfolio/static/media/astronaut.142bdf234b498e562273c6877705b744.svg",
     "index.html": "/lwin-oo-naing-portfolio/index.html",
-    "static/media/coffeeMug.svg": "/lwin-oo-naing-portfolio/static/media/coffeeMug.fae9dc43dd9f59399d29c8f95ab60fa8.svg",
+    "static/media/coffeeMug.svg": "/lwin-oo-naing-portfolio/static/media/coffeeMug.b97e05dfe27ea194d81f15a0710894d7.svg",
     "main.fdc6e078.css.map": "/lwin-oo-naing-portfolio/static/css/main.fdc6e078.css.map",
-    "main.1ff3bca2.js.map": "/lwin-oo-naing-portfolio/static/js/main.1ff3bca2.js.map"
+    "main.ec799598.js.map": "/lwin-oo-naing-portfolio/static/js/main.ec799598.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc6e078.css",
-    "static/js/main.1ff3bca2.js"
+    "static/js/main.ec799598.js"
   ]
 }
