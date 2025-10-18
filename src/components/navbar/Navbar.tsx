@@ -59,22 +59,22 @@ export const Navbar: React.FC<INavbar> = () => {
 
             <li>
               <a
-                href="Lwin Oo Naing Resume.pdf"
+                href="LwinOoNaing_Resume.pdf"
                 title="cv"
-                download={"Lwin Oo Naing Resume.pdf"}
+                download={"LwinOoNaing_Resume.pdf"}
               >
                 .cv()
               </a>
             </li>
 
             <li>
-              <a href="mailto:lwinoonaing806@gmail.com" title="email me">
+              <a href="mailto:lwinoo.naing.301@gmail.com" title="email me">
                 .email()
               </a>
             </li>
             <li className="social-link">
               <a
-                href="https://www.linkedin.com/in/lwin-oo-naing/"
+                href="https://www.linkedin.com/in/lwin-naing/"
                 title="linkedIn"
                 target="_blank"
                 rel="noreferrer"
